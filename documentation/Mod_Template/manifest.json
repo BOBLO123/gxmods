@@ -1,9 +1,9 @@
 {
-    "name": "MOD NAME GOES HERE",
-    "description": "MOD DESCRIPTION GOES HERE",
+    "name": "VERY CLIKY KEYBOARD",
+    "description": "MAKE KEYBOARD VERY CLIKY",
     "developer":
     {
-        "name": "DEVELOPER NAME GOES HERE"
+        "name": "BOBLO123
     },
     "icons":
     {
@@ -77,7 +77,7 @@
                     "sound/tab_slash.mp3"
                 ]
             },
-            "keyboard_sounds":
+            "KEYBOARD soands"
             {
                 "TYPING_BACKSPACE":
                 [
